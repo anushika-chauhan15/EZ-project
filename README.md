@@ -140,3 +140,6 @@ flask==2.0.2
 This README assumes that you're building or have built an AI-assisted tool to read, extract, and summarize information from PDFs. Adjust the tool's functionality based on your specific project.
 
 Does this align with what you had in mind for your PDF reader AI? Let me know if you need further details or adjustments!
+
+
+Credit Anushika Chauhan
